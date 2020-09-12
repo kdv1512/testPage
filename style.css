@@ -1,15 +1,40 @@
-body.index {font-family: fantasy, cursive, sans-serif;}
-h1.index {color: turquoise;}
-h1.who {text-align: center;position: fixed; padding: 10px;width: 100%;background-color: bisque;top: 0px; z-index: 2;}
-h2.index {color: cornflowerblue;}
-p.index {color: chocolate;}
-p.whotop {margin-top: 100px;}
-div.who {z-index: 1; overflow: auto; width: 100%;}
-p.who {
-    float:left;
-    margin: 5px;
-    padding: 5px;
-    background-color: cornflowerblue;
-    width: 230px;
-    clear: right;
+.projectBanner {
+    text-align: center;
+    z-index: 2;
+    background-color: antiquewhite
+}
+#menu {
+    border-style: solid;
+    border-width: medium;
+    float: left;
+    padding: 2px;
+    width: 170px;
+    text-align: center;
+}
+.Menu1 {
+    border-color: red;
+}
+.Menu2 {
+    border-color: orange;
+}
+.Menu3 {
+    border-color: yellow;
+}
+.Menu4 {
+    border-color:green;
+}
+.Menu5 {
+    border-color:blue;
+}
+.Menu6 {
+    border-color:indigo;
+}
+.Menu7 {
+    border-color: violet;
+}
+.intro {
+    margin-top: 150px;
+    border-style: solid;
+    border-color: pink;
+    border-width: thin
 }
