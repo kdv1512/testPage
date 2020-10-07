@@ -38,6 +38,9 @@
     border-color: pink;
     border-width: thin
 }
-.bar2 {
-    color: ;
+
+td, th {
+    border-style: solid;
+    border-width: 3px;
+    border-color: chocolate;
 }
